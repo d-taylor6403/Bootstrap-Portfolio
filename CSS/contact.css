@@ -1,0 +1,35 @@
+/*Custom Navbar styling*/
+
+.navbar{
+    background-color: #4aaaad!important;
+}
+
+.navbar .navbar-brand:hover{
+    color: #ffffff;
+}
+
+nav-item{
+    color: #ffffff!important; 
+}
+
+.navbar .navbar-expand{-sm:-md;-lg:-xl}
+
+/*Main Body Styling*/
+
+body{
+    background-image:url(../images/intersection.png);
+}
+
+.container{
+    width: 960px;
+    height: 400px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    margin-top: 30px;
+}
+
+.btn-primary{
+    background-color: #4aaaad;
+}
+
+
