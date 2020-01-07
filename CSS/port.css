@@ -28,4 +28,15 @@ body{
     padding: 20px;
 }
 
+.card-body{
+    background-color: #4aaaad;
+}
+
+.card-title{
+    color: #ffffff
+}
+
+p{
+    color: #ffffff;
+}
 
