@@ -6,3 +6,7 @@ $('#ccGame').on('click', function(){
     window.open("https://d-taylor6403.github.io/unit-4-game/", "_blank");
 })
 
+$('#triviaGame').on('click', function(){
+    window.open("https://d-taylor6403.github.io/TriviaGame/", "_blank");
+})
+
