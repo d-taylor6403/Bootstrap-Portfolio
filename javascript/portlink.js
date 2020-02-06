@@ -14,7 +14,7 @@ $('#gifTastic').on('click', function(){
     window.open("https://d-taylor6403.github.io/GifTastic/", "_blank");
 })
 
-$('#gifTastic').on('click', function(){
+$('#trainSchedule').on('click', function(){
     window.open("https://d-taylor6403.github.io/Train-Schedule/", "_blank");
 })
 
